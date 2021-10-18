@@ -1,0 +1,10 @@
+1. Apa itu CSS Framework?
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+3. Sebutkan beberapa CSS Framework selain Bootstrap
+4. Bagaimana tata cara penggunaan Bootstrap?
+
+Jawab :
+1. CSS framework adalah kerangka kerja yang fungsinya untuk memudahkan Anda ketika mendesain website atau aplikasi, tepatnya di bagian layout dan tema.
+2. tidak
+3. Tailwind, Bulma, Foundation, Semantic UI
+4. bisa digunakan secara offline(dengan mendownload bootstrap terlebih dahulu) atau online(dengan menggunakan link cdn) 
